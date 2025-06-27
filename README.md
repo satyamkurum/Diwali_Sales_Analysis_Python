@@ -1,15 +1,14 @@
-# 🪔 Diwali Sales Analysis (Python Project)
+#  Diwali Sales Analysis (Python Project)
 
 This project performs an end-to-end analysis of Diwali sales data using Python. It includes data preprocessing, exploratory data analysis (EDA), and business insights using visualizations. The aim is to identify sales trends, customer demographics, and product performance to assist in better decision-making.
 
-## 📁 Project Structure
+##  Project Structure
 
-```
-📦 Diwali_Sales_Analysis_Python/
-├── Diwali Sales Data.csv              # Sales dataset used for analysis
-├── Diwali_Sales_Analysis.ipynb       # Jupyter Notebook with EDA and visualizations
-└── README.md                          # Project overview and documentation
-```
+Diwali_Sales_Analysis_Python/
+Diwali Sales Data.csv              # Sales dataset used for analysis
+Diwali_Sales_Analysis.ipynb       # Jupyter Notebook with EDA and visualizations
+README.md                          # Project overview and documentation
+
 
 ## 📌 Features
 
@@ -56,12 +55,12 @@ The notebook provides insights such as:
 - City-wise sales performance
 - Target customer demographics
 
-## 🧠 Author
+##  Author
 
 **Satyam Kurum**  
 [GitHub Profile](https://github.com/satyamkurum)
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
